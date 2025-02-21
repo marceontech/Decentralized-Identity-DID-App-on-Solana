@@ -23,4 +23,4 @@ DID Struct: Stores identity data on-chain.
    
 * Install dependencies in a React project:   npm install @solana/web3.js @solana/wallet-adapter-react
 
-* Modify DID_Dapp.tsx to register and verify a DID
+* Modify React_DID_Dapp.tsx to register and verify a DID
