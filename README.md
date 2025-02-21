@@ -10,7 +10,7 @@ This is a basic Decentralized Identity (DID) that allows users to control their 
 * Public/Private Key Authentication / Uses wallets like Phantom to sign messages.
 * Verifiable Credentials / these are the attestations proving user identity.
 
-2) The Rust program on the decentralized_DID.rs smart contract is to register and verify a DID on Solana.
+2) The Rust program on the decentralized_identity.rs smart contract is to register and verify a DID on Solana.
 
 register_did(): Registers a user’s DID with a data field.
 
